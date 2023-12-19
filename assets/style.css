@@ -37,6 +37,16 @@ a, a:hover {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.profile-card-social__item img {
+  width: 50px; /* حجم الصورة */
+  height: 50px;
+  border-radius: 50%;
+}
+
+.profile-card-social__item:hover {
+  transform: scale(1.2); /* تكبير العنصر عند التحويل */
+}
+
 @media screen and (max-width: 768px) {
   .wrapper {
     height: auto;
