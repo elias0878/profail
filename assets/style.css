@@ -438,30 +438,32 @@ a, a:hover {
   border-radius: 12px;
   transition: all .3s;
 }
-.custom-button {
-    display: inline-block;
-    padding: 15px 30px;
-    font-size: 20px;
-    color: #ffffff;
-    background: linear-gradient(45deg, #ff6a00, #ee0979); /* تدرج لون مميز */
+.long-button {
+    display: block; /* اجعله عنصر كتلة */
+    width: 100%; /* اجعله بعرض كامل */
+    max-width: 400px; /* عرض أقصى للزر */
+    margin: 20px auto; /* مركز الزر في الصفحة مع مسافة أعلى وأسفل */
+    padding: 20px; /* مسافة داخلية */
+    font-size: 24px; /* حجم الخط */
+    color: #ffffff; /* لون النص */
+    background-color: #28a745; /* خلفية خضراء */
     border: none;
-    border-radius: 50px; /* شكل دائري */
-    text-align: center;
-    text-decoration: none;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-    transition: all 0.3s ease;
-    font-weight: bold;
-    letter-spacing: 1px; /* تباعد الحروف */
+    border-radius: 8px; /* زوايا مدورة */
+    text-align: center; /* توسيط النص */
+    text-decoration: none; /* إزالة خط تحت النص */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* تأثير الظل */
+    transition: all 0.3s ease; /* انتقال سلس */
 }
 
-.custom-button:hover {
-    background: linear-gradient(45deg, #ee0979, #ff6a00); /* تغيير لون التدرج عند التمرير */
+.long-button:hover {
+    background-color: #218838; /* لون الخلفية عند التمرير */
     transform: translateY(-5px); /* رفع الزر قليلاً عند التمرير */
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3); /* زيادة تأثير الظل */
 }
 
-.custom-button:active {
+.long-button:active {
     transform: translateY(2px); /* ضغط الزر */
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* تقليل تأثير الظل عند الضغط */
 }
+
 
