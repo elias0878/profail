@@ -438,3 +438,30 @@ a, a:hover {
   border-radius: 12px;
   transition: all .3s;
 }
+.custom-button {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 20px;
+    color: #ffffff;
+    background: linear-gradient(45deg, #ff6a00, #ee0979); /* تدرج لون مميز */
+    border: none;
+    border-radius: 50px; /* شكل دائري */
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    font-weight: bold;
+    letter-spacing: 1px; /* تباعد الحروف */
+}
+
+.custom-button:hover {
+    background: linear-gradient(45deg, #ee0979, #ff6a00); /* تغيير لون التدرج عند التمرير */
+    transform: translateY(-5px); /* رفع الزر قليلاً عند التمرير */
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3); /* زيادة تأثير الظل */
+}
+
+.custom-button:active {
+    transform: translateY(2px); /* ضغط الزر */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* تقليل تأثير الظل عند الضغط */
+}
+
