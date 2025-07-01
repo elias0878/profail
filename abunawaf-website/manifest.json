@@ -1,0 +1,24 @@
+{
+  "name": "فريق أبونواف",
+  "short_name": "أبونواف",
+  "description": "فريق متخصص في الأمن السيبراني والخدمات التقنية",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#667eea",
+  "icons": [
+    {
+      "src": "https://pbs.twimg.com/profile_images/1650580380318048260/sJ7NkZw__400x400.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://pbs.twimg.com/profile_images/1650580380318048260/sJ7NkZw__400x400.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "dir": "rtl",
+  "lang": "ar",
+  "orientation": "portrait-primary"
+}

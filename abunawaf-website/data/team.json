@@ -1,0 +1,59 @@
+[
+  {
+    "id": "team-001",
+    "name": "أبونواف",
+    "role": "مؤسس الفريق ومدير الأمن السيبراني",
+    "description": "خبير في الأمن السيبراني مع أكثر من 7 سنوات من الخبرة في حماية الأنظمة والبيانات.",
+    "skills": ["الأمن السيبراني", "اختبار الاختراق", "تحليل البرمجيات الخبيثة"],
+    "image": "assets/images/team/abunawaf.jpg",
+    "icon": "fa-user-shield",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/abunawaf",
+      "twitter": "https://twitter.com/abunawaf_tech",
+      "email": "abunawaf@example.com"
+    }
+  },
+  {
+    "id": "team-002",
+    "name": "فريق التطوير",
+    "role": "مطورو البرمجيات والتطبيقات",
+    "description": "فريق من المطورين المتخصصين في تطوير الحلول التقنية وتطبيقات الأمان.",
+    "skills": ["تطوير الويب", "تطبيقات الجوال", "قواعد البيانات"],
+    "image": "assets/images/team/dev-team.jpg",
+    "icon": "fa-code",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/company/abunawaf-tech",
+      "twitter": "https://twitter.com/abunawaf_tech",
+      "email": "dev@example.com"
+    }
+  },
+  {
+    "id": "team-003",
+    "name": "فريق الدعم الفني",
+    "role": "خدمة العملاء والدعم التقني",
+    "description": "فريق متخصص في تقديم الدعم الفني والمساعدة للعملاء على مدار الساعة.",
+    "skills": ["خدمة العملاء", "الدعم التقني", "حل المشاكل"],
+    "image": "assets/images/team/support-team.jpg",
+    "icon": "fa-headset",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/company/abunawaf-tech",
+      "twitter": "https://twitter.com/abunawaf_tech",
+      "email": "support@example.com"
+    }
+  },
+  {
+    "id": "team-004",
+    "name": "فريق البحث والتطوير",
+    "role": "البحث في التقنيات الجديدة",
+    "description": "فريق متخصص في البحث عن أحدث التقنيات وتطوير حلول مبتكرة.",
+    "skills": ["البحث والتطوير", "الذكاء الاصطناعي", "التقنيات الناشئة"],
+    "image": "assets/images/team/research-team.jpg",
+    "icon": "fa-search",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/company/abunawaf-tech",
+      "twitter": "https://twitter.com/abunawaf_tech",
+      "email": "research@example.com"
+    }
+  }
+]
+

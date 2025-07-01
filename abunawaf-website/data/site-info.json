@@ -1,0 +1,33 @@
+{
+  "site": {
+    "name": "فريق أبونواف",
+    "tagline": "متخصصون في الأمن السيبراني والخدمات التقنية",
+    "description": "فريق أبونواف متخصص في الأمن السيبراني والخدمات التقنية، نقدم أكثر من 300 خدمة احترافية لحماية وتأمين حساباتكم وأجهزتكم الرقمية",
+    "founded": "2019",
+    "clients": "500+",
+    "satisfaction_rate": "98%",
+    "average_rating": "4.9"
+  },
+  "contact": {
+    "location": "الرياض، حي الربيع",
+    "working_hours": "يومياً من 2:30 مساءً إلى 12:00 منتصف الليل",
+    "closed_days": "أيام الجمعة والإجازات الرسمية",
+    "phone": "+966501234567",
+    "email": "info@abunawaf-tech.com"
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/profile.php?id=61554330014413",
+    "instagram": "https://www.instagram.com/ksa_hack01",
+    "twitter": "https://twitter.com/KSA_hack01",
+    "telegram": "https://t.me/KSA_hack01",
+    "snapchat": "https://www.snapchat.com/add/ksa.hack01",
+    "tiktok": "https://www.tiktok.com/@ksa_hack01",
+    "github": "https://github.com/elias0878"
+  },
+  "meta": {
+    "keywords": "ابونواف, هكر أخلاقي, أمن سيبراني, خدمات تقنية, استرجاع حسابات, حماية البيانات",
+    "author": "فريق أبونواف",
+    "og_image": "assets/images/og-image.jpg"
+  }
+}
+
